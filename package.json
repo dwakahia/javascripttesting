@@ -1,0 +1,24 @@
+{
+  "name": "jstesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "dennis",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "gulp-util": "^3.0.8",
+    "jasmine": "^4.0.2",
+    "jest": "^27.4.7",
+    "karma": "^6.3.10",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-firefox-launcher": "^2.1.2",
+    "karma-jasmine": "^4.0.1",
+    "karma-mocha": "^2.0.1",
+    "sass": "^1.47.0"
+  }
+}
